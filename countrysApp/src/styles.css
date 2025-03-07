@@ -3,5 +3,9 @@
 /* src/styles.css */
 /* src/styles.css */
 @tailwind base;
+
+/* Estilos de componentes de Tailwind */
 @tailwind components;
+
+/* Estilos utilitarios de Tailwind */
 @tailwind utilities;
